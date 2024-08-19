@@ -28,4 +28,27 @@ Explore the live version of the application here: [Fetch User](https://fetch-use
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/Jimil1407/fetch_user_jim.git
-   cd fetch-user
+   cd fetch_user
+
+2. **Install dependencies::**
+   ```bash
+   npm install
+
+3. **Start the development server:**
+   ```bash
+   npm start
+
+4. **Open your browser and navigate to:**
+   ```bash
+   http://localhost:3000
+
+## 🤝 Contributing
+
+Contributions are welcome! If you have suggestions for improvements or additional features, please open an issue or submit a pull request.
+
+## 🌟 Acknowledgements
+
+- Thanks to the open-source community for the libraries and tools used.
+- Special thanks to Vercel for providing a robust platform for deployment.
+
+Thank you for exploring Fetch User! We hope you find it useful and engaging.
